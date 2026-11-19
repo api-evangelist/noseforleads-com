@@ -1,4 +1,4 @@
-# noseforleads-com
+# Nose for Leads
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,139 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-noseforleads-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://noseforleads.com/
+Nose for Leads provides verified local business leads across the US, Canada, UK, and Australia. Users can define target criteria, and the service checks each mailbox live, filters out invalid contacts, and delivers clean, actionable lead lists. Pricing is per‑validated lead with no subscription, and an API (MCP) allows integration into agents and automation workflows.
+
+**Areas:** Verified Email · Local Business Data · B2B Data · API · Credit Packs
+
+## Nose for Leads on APIs.io
+
+Everything profiled for Nose for Leads is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/noseforleads-com/](https://apis.io/providers/noseforleads-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (13)
+
+- [Nose for Leads Billing API](https://apis.io/apis/noseforleads-com/noseforleads-com-billing-api/) — The Billing API from Nose for Leads — 2 operation(s) for billing.
+- [Nose for Leads Campaigns API](https://apis.io/apis/noseforleads-com/noseforleads-com-campaigns-api/) — The Campaigns API from Nose for Leads — 4 operation(s) for campaigns.
+- [Nose for Leads Credits API](https://apis.io/apis/noseforleads-com/noseforleads-com-credits-api/) — The Credits API from Nose for Leads — 2 operation(s) for credits.
+- [Nose for Leads Email API](https://apis.io/apis/noseforleads-com/noseforleads-com-email-api/) — The Email API from Nose for Leads — 3 operation(s) for email.
+- [Nose for Leads Keys API](https://apis.io/apis/noseforleads-com/noseforleads-com-keys-api/) — The Keys API from Nose for Leads — 2 operation(s) for keys.
+- [Nose for Leads OAuth API](https://apis.io/apis/noseforleads-com/noseforleads-com-oauth-api/) — The Oauth API from Nose for Leads — 4 operation(s) for oauth.
+- [Nose for Leads Packs API](https://apis.io/apis/noseforleads-com/noseforleads-com-packs-api/) — The Packs API from Nose for Leads — 1 operation(s) for packs.
+- [Nose for Leads Privacy API](https://apis.io/apis/noseforleads-com/noseforleads-com-privacy-api/) — The Privacy API from Nose for Leads — 1 operation(s) for privacy.
+- [Nose for Leads Stripe API](https://apis.io/apis/noseforleads-com/noseforleads-com-stripe-api/) — The Stripe API from Nose for Leads — 1 operation(s) for stripe.
+- [Nose for Leads Suppressions API](https://apis.io/apis/noseforleads-com/noseforleads-com-suppressions-api/) — The Suppressions API from Nose for Leads — 1 operation(s) for suppressions.
+- [Nose for Leads Translate API](https://apis.io/apis/noseforleads-com/noseforleads-com-translate-api/) — The Translate API from Nose for Leads — 1 operation(s) for translate.
+- [Nose for Leads Usage API](https://apis.io/apis/noseforleads-com/noseforleads-com-usage-api/) — The Usage API from Nose for Leads — 1 operation(s) for usage.
+- [Nose for Leads .well Known API](https://apis.io/apis/noseforleads-com/noseforleads-com-well-known-api/) — The .well Known API from Nose for Leads — 2 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Nose for Leads Agentic Access](https://apis.io/agentic-access/noseforleads-com/noseforleads-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [EmailPrefsBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-email-prefs-body/)
+- [MintKeyBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-mint-key-body/)
+- [OAuthAuthorizeBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-oauth-authorize-body/)
+- [PrivacyRemovalBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-privacy-removal-body/)
+- [SubmitCampaignBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-submit-campaign-body/)
+- [SuppressionBody](https://apis.io/schemas/noseforleads-com/noseforleads-com-suppression-body/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Noseforleads Com Context](https://apis.io/jsonld/noseforleads-com/noseforleads-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Nose for Leads API Rules](https://apis.io/rules/noseforleads-com/noseforleads-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nose for Leads Domain Security](https://apis.io/security/noseforleads-com/noseforleads-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Nose for Leads Plans Pricing](https://apis.io/plans/noseforleads-com/noseforleads-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://noseforleads.com/)
+- [Documentation](https://www.noseforleads.com/)
+- [Pricing](https://www.noseforleads.com/pricing)
+- [Blog](https://www.noseforleads.com/blog)
+- [Terms of service](https://www.noseforleads.com/terms)
+- [Privacy policy](https://www.noseforleads.com/privacy)
+- [GitHub](https://github.com/NoseForLeads)
+
+## API Evangelist rating
+
+**Kin Score 44.3** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 46.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 18.3 |
+| Access clarity | 59.1 |
+
+**Agent readiness 57.6** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/noseforleads-com/](https://apis.io/providers/noseforleads-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nose for Leads: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/noseforleads-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
